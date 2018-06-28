@@ -3,7 +3,7 @@ publiccode-yaml-version: "http://w3id.org/publiccode/version/0.1"
 name: Medusa
 applicationSuite: GorgonProductivitySuite
 url: "https://github.com/gith002/medusa.git"        # URL of this repository
-landingURL: "https://medusa.example.com"
+landingURL: "https://designers.italia.it"
 
 isBasedOn: "https://github.com/gith002/medusa.git"   # The original repository, "Otello"
 softwareVersion: "1.0"                                        # Last stable version
