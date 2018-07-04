@@ -27,9 +27,9 @@ tags:
 
 freeTags:
   eng:
-    - english-free-tag
+    - english-free-tag-medusa
   ita:
-    - tag-libero-italiano
+    - tag-libero-italiano-medusa
 
 usedBy:
   - Comune di Milano
